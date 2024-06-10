@@ -9,7 +9,7 @@ export const SITE: Site = {
 };
 
 export const HOME: Metadata = {
-  TITLE: "Home",
+  TITLE: "Aryan Pathania",
   DESCRIPTION:
     "Aryan Pathania | Backend Developer | Computer Science & Engineering Graduate",
 };
